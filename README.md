@@ -17,3 +17,4 @@
 - ### **Design:** passionate about creating visual content, using Blender for 3D modeling, Photoshop, and Figma for graphic design.
 
 ### I am constantly striving to expand my knowledge and skills, actively learning new technologies and approaches in Data Science and design.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=snchs&show_icons=true&theme=radical&count_private=true&bg_color=000&icon_color=fff)
