@@ -44,4 +44,4 @@
 
 ### Я постоянно изучаю новые подходы к аналитике и визуализации данных, потому что в мире продуктов это единственный способ оставаться на шаг впереди конкурентов.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your_product_analyst&show_icons=true&theme=radical&count_private=true&bg_color=000&icon_color=fff)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=snchs&show_icons=true&theme=radical&count_private=true&bg_color=000&icon_color=fff)
