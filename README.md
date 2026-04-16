@@ -1,7 +1,7 @@
 ![logo](img/logo.png)
 
 ## Привет! 👋
-### Меня зовут [Ваше Имя], и я специализируюсь на **Продуктовой Аналитике**. Я помогаю продуктовым командам принимать решения на основе данных, а не интуиции. В своей работе я превращаю сырые логи в actionable-инсайты, используя весь арсенал современных инструментов: от SQL-запросов в ClickHouse до статистических тестов в Python.
+### Меня зовут Александр, и я специализируюсь на **Продуктовой Аналитике**. Я помогаю продуктовым командам принимать решения на основе данных, а не интуиции. В своей работе я превращаю сырые логи в инсайты, используя весь арсенал современных инструментов: от SQL-запросов до статистических тестов в Python.
 
 ## 🛠️ Мой стек технологий
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=pink)
@@ -9,10 +9,8 @@
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql&logoColor=pink)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-black?style=for-the-badge&logo=clickhouse&logoColor=pink)
 ![Tableau](https://img.shields.io/badge/Tableau-black?style=for-the-badge&logo=tableau&logoColor=pink)
-![Redash](https://img.shields.io/badge/Redash-black?style=for-the-badge&logo=redash&logoColor=pink)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=pink)
-![Airflow](https://img.shields.io/badge/Airflow-black?style=for-the-badge&logo=apacheairflow&logoColor=pink)
-
+![Apache Superset](https://img.shields.io/badge/Superset-black?style=for-the-badge&logo=superset&logoColor=pink)
 ## 📊 Ключевые направления работы
 
 ### 🧠 **Продуктовые метрики и юнит-экономика**
