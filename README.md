@@ -1,20 +1,49 @@
 ![logo](img/logo.png)
 
-## Hello! 👋
-### My name is Snchs and I specialize in Data Science. In my work, I use a wide range of tools and technologies, including Python, C#, SQL, MDX, GPSS, as well as Blender, Photoshop, and Figma.
+## Привет! 👋
+### Меня зовут [Ваше Имя], и я специализируюсь на **Продуктовой Аналитике**. Я помогаю продуктовым командам принимать решения на основе данных, а не интуиции. В своей работе я превращаю сырые логи в actionable-инсайты, используя весь арсенал современных инструментов: от SQL-запросов в ClickHouse до статистических тестов в Python.
 
-## Main Areas of My Work:
+## 🛠️ Мой стек технологий
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=pink)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=TensorFlow&logoColor=pink)
-![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch&logoColor=pink)
-![Keras](https://img.shields.io/badge/Keras-black?style=for-the-badge&logo=Keras&logoColor=pink)
-![Scikit-learn](https://img.shields.io/badge/Scikit_learn-black?style=for-the-badge&logo=Scikit-learn&logoColor=pink)
-![Numpy](https://img.shields.io/badge/Numpy-black?style=for-the-badge&logo=Numpy&logoColor=pink)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=python&logoColor=pink)
-- ### **Data Science and Machine Learning:** model development, data analysis, and forecasting. Proficient in TensorFlow, 
-- ### **Working with OLAP Cubes:** experience in designing and optimizing multidimensional analytical applications.
-- ### **Programming:** experience in developing with Python and C# for various tasks in data analysis and process automation.
-- ### **Design:** passionate about creating visual content, using Blender for 3D modeling, Photoshop, and Figma for graphic design.
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=pink)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql&logoColor=pink)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-black?style=for-the-badge&logo=clickhouse&logoColor=pink)
+![Tableau](https://img.shields.io/badge/Tableau-black?style=for-the-badge&logo=tableau&logoColor=pink)
+![Redash](https://img.shields.io/badge/Redash-black?style=for-the-badge&logo=redash&logoColor=pink)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=pink)
+![Airflow](https://img.shields.io/badge/Airflow-black?style=for-the-badge&logo=apacheairflow&logoColor=pink)
 
-### I am constantly striving to expand my knowledge and skills, actively learning new technologies and approaches in Data Science and design.
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=snchs&show_icons=true&theme=radical&count_private=true&bg_color=000&icon_color=fff)
+## 📊 Ключевые направления работы
+
+### 🧠 **Продуктовые метрики и юнит-экономика**
+- **Воронки и конверсии:** Построение сквозной аналитики от первого касания до целевого действия. Поиск «узких горлышек» в продукте.
+- **Когортный анализ:** Оценка Retention Rate, LTV, динамики возвращаемости аудитории. Сегментация пользователей по поведению и источникам трафика.
+- **Юнит-экономика:** Расчет CAC, ARPU, ARPPU, Contribution Margin. Понимание, сколько стоит привлечение пользователя и когда он окупается.
+
+### 📈 **A/B-тестирование и статистика**
+- **Дизайн экспериментов:** Расчет выборки, оценка MDE (минимально детектируемого эффекта), сплитование трафика без пересечений.
+- **Анализ результатов:** Проверка гипотез с помощью t-test (Стьюдента), Манна-Уитни, бутстрепа. Оценка статзначимости не только средних значений, но и квантилей (процентилей).
+- **CUPED и стратификация:** Применение методов снижения дисперсии для ускорения A/B-тестов.
+
+### 🔍 **Исследование поведения пользователей**
+- **Анализ сессий и потоков:** Визуализация путей пользователя (Sankey diagrams), анализ глубины просмотра и паттернов навигации.
+- **Сегментация RFM:** Разделение базы на лояльных, спящих и уходящих клиентов для триггерных рассылок.
+- **Поиск аномалий:** Оперативный мониторинг падения конверсий в реальном времени с помощью статистических детекторов (IQR, Z-score).
+
+### 🏗️ **Инфраструктура данных и Self-Service аналитика**
+- **ETL и витрины данных:** Написание сложных SQL-запросов, создание материализованных представлений и пайплайнов в Airflow для автоматизации отчетности.
+- **Дашборды для команд:** Разработка BI-решений в Tableau / Superset. Мой принцип: «Дашборд должен отвечать на бизнес-вопрос за 5 секунд, а не вызывать желание выгрузить CSV в Excel».
+- **Алертинг:** Настройка автоматических уведомлений о критических изменениях метрик в Slack/Telegram.
+
+### 🗣️ **Взаимодействие с командой**
+- **Data-informed подход:** Я не просто приношу цифры, я приношу рекомендации. Работаю в плотной связке с **Product Manager** (генерация гипотез) и **Разработкой** (корректное логирование событий).
+- **Документирование:** Веду Data Dictionary и логику расчетов в Confluence/Notion, чтобы у всей команды было единое окно правды.
+
+## 📚 Мои постоянные вызовы и интересы
+- Как измерить вовлеченность, если у нас не экранное время, а сложный B2B-интерфейс?
+- Как строить модели оттока с учетом эффекта сезонности и когорт?
+- Как ускорить аналитику, когда в сырых таблицах уже петабайты данных?
+
+### Я постоянно изучаю новые подходы к аналитике и визуализации данных, потому что в мире продуктов это единственный способ оставаться на шаг впереди конкурентов.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=your_product_analyst&show_icons=true&theme=radical&count_private=true&bg_color=000&icon_color=fff)
