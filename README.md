@@ -10,7 +10,7 @@
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-black?style=for-the-badge&logo=clickhouse&logoColor=pink)
 ![Tableau](https://img.shields.io/badge/Tableau-black?style=for-the-badge&logo=tableau&logoColor=pink)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=pink)
-![Apache Superset](https://img.shields.io/badge/Superset-black?style=for-the-badge&logo=superset&logoColor=pink)
+![Apache Superset](https://img.shields.io/badge/Superset-black?style=for-the-badge&logo=apache&logoColor=pink)
 ## 📊 Ключевые направления работы
 
 ### 🧠 **Продуктовые метрики и юнит-экономика**
